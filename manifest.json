@@ -1,0 +1,11 @@
+{
+  "display_name": "玄尘渡主题",
+  "description": "自带玄幻水墨主题、侧栏书阁与统一工作区。",
+  "js": "index.js",
+  "css": "theme-overlay.css",
+  "author": "Codex",
+  "version": "1.0.6",
+  "loading_order": 100,
+  "requires": [],
+  "optional": []
+}
